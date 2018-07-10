@@ -1,0 +1,1 @@
+This example is focused on creating React Element without JSX
