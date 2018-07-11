@@ -12,7 +12,7 @@ class App extends Component {
                 </header>
                 <p className="App-intro">
                     <div> Prop 1: <span></span>{this.props.prop1}</div> 
-                    <div> Prop 2: <span></span>{this.props.prop2}</div> 
+                    <div> Prop 2: <span></span>{this.props.prop2}</div>  
                 </p>
             </div>
         );
